@@ -1,4 +1,5 @@
 ---------------------------------------------------
+-+-Git commands-+--
 
 init
 config --global(system or local)
@@ -22,3 +23,5 @@ branch [branch-name] - create branch
 checkout [branch-name] - switches to branch
 merge [branch-name] -combine
 branch -d [branch-name] - delete brunch
+
+_____________________________________________________
