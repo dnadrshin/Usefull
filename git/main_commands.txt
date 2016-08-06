@@ -1,3 +1,5 @@
+---------------------------------------------------
+
 init
 config --global(system or local)
 	user.name ""
