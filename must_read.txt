@@ -6,3 +6,5 @@ https://github.com/airbnb/javascript - JS style
 https://egghead.io/lessons/react-react-router-router-route-and-link - React Routing video
 
 
+==Programming
+https://coggle.it/diagram/Vz9LvW8byvN0I38x - all about programming
