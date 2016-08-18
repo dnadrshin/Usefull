@@ -1,5 +1,8 @@
+==JS
 https://habrahabr.ru/post/305900/ - JS6
+https://github.com/airbnb/javascript - JS style
 
-
-React:
+==React:
 https://egghead.io/lessons/react-react-router-router-route-and-link - React Routing video
+
+
