@@ -7,4 +7,5 @@ https://egghead.io/lessons/react-react-router-router-route-and-link - React Rout
 
 
 ==Programming
-https://coggle.it/diagram/Vz9LvW8byvN0I38x - all about programming
+https://coggle.it/diagram/Vz9LvW8byvN0I38x - all about programming ways
+http://mcfunley.com/choose-boring-technology - Choose Boring Technology
