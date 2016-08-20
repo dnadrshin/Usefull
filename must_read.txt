@@ -1,6 +1,13 @@
 ==JS
 https://habrahabr.ru/post/305900/ - JS6
 https://github.com/airbnb/javascript - JS style
+https://habrahabr.ru/post/307694/ -  Progressive Loading JS
+
+==Canvas
+pixi.js
+
+==Angular
+https://habrahabr.ru/post/307826/ - Angular tools
 
 ==React:
 https://egghead.io/lessons/react-react-router-router-route-and-link - React Routing video
