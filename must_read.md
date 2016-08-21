@@ -22,3 +22,6 @@
 
 ##Linux
 * http://techutils.in/2016/05/18/bash-cheat-sheet/ bash command
+* 
+##IoT
+https://habrahabr.ru/post/281342/ - IoT plus JS
