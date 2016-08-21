@@ -12,6 +12,8 @@ https://habrahabr.ru/post/307826/ - Angular tools
 ==React:
 https://egghead.io/lessons/react-react-router-router-route-and-link - React Routing video
 
+==Webpack
+https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.d6aqimwvr
 
 ==Programming
 https://coggle.it/diagram/Vz9LvW8byvN0I38x - all about programming ways
