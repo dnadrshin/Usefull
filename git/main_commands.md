@@ -1,3 +1,4 @@
+## Start project
 * init
 * config --global(system or local)
 	* user.name ""
@@ -5,6 +6,7 @@
 
 * clone [url] [dir]
 
+##Status
 * status
 * log
 * show origin
