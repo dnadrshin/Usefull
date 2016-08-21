@@ -1,9 +1,7 @@
 ##JS
-https://habrahabr.ru/post/305900/ - JS6
-
-https://github.com/airbnb/javascript - JS style
-
-https://habrahabr.ru/post/307694/ -  Progressive Loading JS
+* https://habrahabr.ru/post/305900/ - JS6
+* https://github.com/airbnb/javascript - JS style
+* https://habrahabr.ru/post/307694/ -  Progressive Loading JS
 
 ##Canvas
 pixi.js
