@@ -7,6 +7,9 @@
 ##Canvas
 * https://pixi.js
 
+##Git
+* https://github.com/git-tips/tips
+
 ##Angular
 * https://habrahabr.ru/post/307826/ - Angular tools
 
