@@ -14,6 +14,7 @@
 
 ##Webpack
 * https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.d6aqimwvr
+* https://medium.com/@rajaraodv/webpack-hot-module-replacement-hmr-e756a726a07#.m9aachjhs deeper
 
 ##Programming
 * https://coggle.it/diagram/Vz9LvW8byvN0I38x - all about programming ways
