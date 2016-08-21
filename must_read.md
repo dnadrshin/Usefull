@@ -2,6 +2,7 @@
 * https://habrahabr.ru/post/305900/ - JS6
 * https://github.com/airbnb/javascript - JS style
 * https://habrahabr.ru/post/307694/ -  Progressive Loading JS
+* http://javascript.info/tutorial/events-and-timing-depth - timing
 
 ##Canvas
 * https://pixi.js
