@@ -25,3 +25,4 @@
 
 ##IoT
 * https://habrahabr.ru/post/281342/ - IoT plus JS
+* https://habrahabr.ru/post/281342/ - IoT array of links
