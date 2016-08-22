@@ -24,6 +24,8 @@
 * https://coggle.it/diagram/Vz9LvW8byvN0I38x - all about programming ways
 * http://mcfunley.com/choose-boring-technology - Choose Boring Technology
 
+##Laravel
+* https://scotch.io/tutorials/build-a-laravel-application-with-user-authentication - Laravel auth
 
 ##Linux
 * http://techutils.in/2016/05/18/bash-cheat-sheet/ bash command
