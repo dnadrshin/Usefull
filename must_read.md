@@ -26,6 +26,7 @@
 
 ##Laravel
 * https://scotch.io/tutorials/build-a-laravel-application-with-user-authentication - Laravel auth
+* http://kodeinfo.com/post/realtime-app-using-laravel-nodejs-angularjs-redis?utm_source=laravelfeed.com 
 
 ##Linux
 * http://techutils.in/2016/05/18/bash-cheat-sheet/ bash command
