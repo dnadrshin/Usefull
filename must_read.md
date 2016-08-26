@@ -20,6 +20,9 @@
 * https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.d6aqimwvr
 * https://medium.com/@rajaraodv/webpack-hot-module-replacement-hmr-e756a726a07#.m9aachjhs deeper
 
+##Meteor
+* http://shustov.su/blog/javascript/meteor-js-framework-for-create-real-time-apps
+
 ##Programming
 * https://coggle.it/diagram/Vz9LvW8byvN0I38x - all about programming ways
 * http://mcfunley.com/choose-boring-technology - Choose Boring Technology
