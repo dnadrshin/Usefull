@@ -3,6 +3,7 @@
 
 ##JS
 * https://habrahabr.ru/post/305900/ - JS6
+* https://google.github.io/styleguide/javascriptguide.xml - google style guide
 * https://github.com/airbnb/javascript - JS style
 * https://habrahabr.ru/post/307694/ -  Progressive Loading JS
 * http://javascript.info/tutorial/events-and-timing-depth - timing
