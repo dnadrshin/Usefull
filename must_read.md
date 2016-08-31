@@ -26,6 +26,8 @@
 * https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.d6aqimwvr
 * https://medium.com/@rajaraodv/webpack-hot-module-replacement-hmr-e756a726a07#.m9aachjhs deeper
 
+##Cordova
+* https://cordova.apache.org
 ##Meteor
 * http://shustov.su/blog/javascript/meteor-js-framework-for-create-real-time-apps
 
