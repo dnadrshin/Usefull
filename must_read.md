@@ -26,6 +26,9 @@
 ##React:
 * https://egghead.io/lessons/react-react-router-router-route-and-link - React Routing video
 
+##Gulp
+* https://vk.com/wall-54530371_84588
+
 ##Webpack
 * https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.d6aqimwvr
 * https://medium.com/@rajaraodv/webpack-hot-module-replacement-hmr-e756a726a07#.m9aachjhs deeper
