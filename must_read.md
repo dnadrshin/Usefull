@@ -8,6 +8,9 @@
 * https://habrahabr.ru/post/307694/ -  Progressive Loading JS
 * http://javascript.info/tutorial/events-and-timing-depth - timing
 * https://tproger.ru/translations/javascript-this-keyword/ - about this
+* 
+##NodeJS
+* https://github.com/felixge/node-style-guide
 
 ##Canvas
 * https://pixi.js
