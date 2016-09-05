@@ -1,5 +1,6 @@
 ##CSS Selectors
 
+```css
 * element>element div > p	Selects all <p> elements where the parent is a <div> element	
 * element+element	div + p	Selects all <p> elements that are placed immediately after <div> elements	
 * element1~element2	p ~ ul	Selects every <ul> element that are preceded by a <p> element	
@@ -9,3 +10,4 @@
 * [attribute^=value] a[href^="https"]	Selects every <a> element whose href attribute value begins with "https"	
 * [attribute$=value] a[href$=".pdf"]	Selects every <a> element whose href attribute value ends with ".pdf"	
 * [attribute*=value] a[href*="w3schools"]	Selects every <a> element whose href attribute value contains the substring "w3schools"	
+```
