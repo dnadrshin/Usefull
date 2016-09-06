@@ -9,6 +9,8 @@
 * http://javascript.info/tutorial/events-and-timing-depth - timing
 * https://tproger.ru/translations/javascript-this-keyword/ - about this
 
+## Testing
+* https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-setting-up-unit-testing-with-mocha-and-chai
 
 ##NodeJS
 * https://github.com/felixge/node-style-guide
