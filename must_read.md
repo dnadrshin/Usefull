@@ -2,6 +2,7 @@
 *  https://habrahabr.ru/company/zfort/blog/308698/
 
 ##JS
+* http://es6-features.org/ - JS6
 * https://habrahabr.ru/post/305900/ - JS6
 * https://google.github.io/styleguide/javascriptguide.xml - google style guide
 * https://github.com/airbnb/javascript - JS style
