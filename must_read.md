@@ -60,3 +60,6 @@
 *  https://university.mongodb.com/courses/M123/about?jmp=docs&_ga=1.79797653.367190656.1472326175
 *  https://github.com/Automattic/mongoose
 
+
+##Design
+*  http://www.flaticon.com/ - icons
