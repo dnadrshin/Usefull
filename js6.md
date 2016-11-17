@@ -3,3 +3,4 @@
 
 * Arrow functions
 * Block scoping
+* Propmises
